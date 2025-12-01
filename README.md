@@ -18,23 +18,15 @@
   <img src="https://64.media.tumblr.com/b876b33c2be87f7f84f1d7ddfa1d52c4/c2fe51a09c6bb98a-af/s500x750/aef9e9fe0db1080418b6c0e2b76b8076b0ed26d6.pnj" width="700" height="700">
   <br>
   <br>
-  <img src="https://64.media.tumblr.com/e90498b0683fa1d540635268ccbb25f7/09859c5581a97987-12/s250x400/cf622386dbf0f2fb91cc94fa8c077bf748469b38.webp" width="150" height="150">
-  <img src="https://64.media.tumblr.com/bfe0f2d21bb4ba5c529e9df52baa07ae/09859c5581a97987-7a/s250x400/4cbad2cf5d6d18b4451c79a565cac035d44045e9.gifv" width="150" height="150">
-  <img src="https://64.media.tumblr.com/0addead48a929ea5748b2443af5bfdd6/09859c5581a97987-fb/s250x400/373bb6c08d909abbe1ecf5fc7ec3f26f4bf0e543.gifv" width="150" height="150">
-  <img src="https://64.media.tumblr.com/a11910f7d17aff4e5bb87039f9cea7e9/09859c5581a97987-94/s250x400/70c000f8de1d6ad06a5cb2e47ffcc09dee14a764.gifv" width="150" height="150">
-  <img src="https://64.media.tumblr.com/36b322f7470676d158e1860b7d4a7db3/09859c5581a97987-17/s250x400/923f956e2780b0f24a8b7b29d165e02e1a9cadc8.gifv" width="150" height="150">
+  <img src="">
+  <img src="">
   <br>
-  <img src="https://64.media.tumblr.com/e01ef5c2273131e1d0cff36b839982e1/c943029f4c9c1dbe-24/s250x400/af3991653622082e1a5c480adb0dc304da2086f3.gifv" width="150" height="150">
-  <img src="https://64.media.tumblr.com/00ff01c70ff5cd56ecdc2214a136bd91/14df2b8e0ccc2214-1e/s250x400/e9f338aaf7962f176a21585d190c3c7b1ea2d02a.jpg" width="150" height="150">
-  <img src="https://64.media.tumblr.com/6c77a6be2121ed1782009622954f077f/c943029f4c9c1dbe-5a/s250x400/6b55f0f59a42f5656f3e185320e6b50a1033ef2e.gifv" width="150" height="150">
-  <img src="https://64.media.tumblr.com/47db927fa3c39557f9f2ee377652c54f/86b0edad9abc191f-3c/s250x400/7b43b403fc51d6e843344f421778a199991480e6.gifv" width="150" height="150">
-  <img src="https://64.media.tumblr.com/75cb99ed60f637a8ede378e2229f0dba/b0859653b54a4d89-5a/s250x400/445c811efdfac82e7a98eebd2efc77cde0e166ac.gifv" width="150" height="150">
-  <br>
-  <img src="https://64.media.tumblr.com/6995817be021bca5e14ab050c4f9bd38/feb5efab258e6854-77/s100x200/f20d634480710e7393ccbb22a144a8d60722f7c8.webp">
-  <img src="https://64.media.tumblr.com/782c089ac9b3e65bdf76e0303ab39aff/c9393b061573e4e9-2f/s100x200/605ef80e710eea9477d3d1eea973e749c7cace37.pnj">
-  <img src="https://64.media.tumblr.com/c7e5240a67207e76bf5550a9b49f4a37/89f153b6ca9df4f8-d3/s100x200/95167779ad16e1d819a492d05cf6abad9b0ab088.gifv">
-  <img src="https://64.media.tumblr.com/96e69a036b4c2e84a464fe9ad41ae495/6f072ea04e7b6c72-db/s100x200/2fc6d547fa9d516036636e8c3a2b57b88f892f0e.gifv">
-  <img src="https://64.media.tumblr.com/d7dca497d2fb9d022f7ee9ef427079e1/a749e0bb2127ba87-dd/s100x200/78322088508cd84a1c130bb535a7a29d2777728f.gifv">
+  <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875152062943242/ezgif.com-gif-maker_1.gif?ex=692e4c58&is=692cfad8&hm=f27d81632d527aa3213e3a914d26b0aac4fce8361fc0af3535a32ebc27c5a7c9&=&width=138&height=75">
+  <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875152419586079/ezgif.com-gif-maker_2.gif?ex=692e4c58&is=692cfad8&hm=b6f89dedd1f407229cf12d85a80f8f4b25a938f557a37be9bbf65185a92c78b0&=&width=124&height=70">
+  <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875152838885407/ezgif.com-gif-maker_4.gif?ex=692e4c58&is=692cfad8&hm=50ebc559f1f9399578e735d391d46b4b377c2420675e32638e851af057a63efa&=&width=138&height=75">
+  <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875153174560901/ezgif.com-gif-maker_3.gif?ex=692e4c58&is=692cfad8&hm=762d2469c21b31334504f225471d3a438cc882def61a16ea42e458c35b7b4e04&=&width=124&height=70">
+  <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875153925214313/ezgif.com-gif-maker_5.gif?ex=692e4c59&is=692cfad9&hm=a8f84f286c3d91dcdaabf99a1961d1bfb7745b09a5287adae509bb32f1ba135b&=&width=138&height=75">
+  <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875154223140997/ezgif.com-gif-maker.gif?ex=692e4c59&is=692cfad9&hm=f9b36b38fb847eb91d03668bcf66ee74e2aa3ae57ab81622fa4f05257f634695&=&width=124&height=70">
   <br>
   <img src="https://64.media.tumblr.com/b66f3e53832bf093d68483a55eb1c3cb/657171b7ea876107-67/s2048x3072/6dbbcada92eea0d7d338aefc172ab9bfa3639e34.pnj">
 </div>
