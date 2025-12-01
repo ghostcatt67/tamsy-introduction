@@ -18,8 +18,8 @@
   <img src="https://64.media.tumblr.com/b876b33c2be87f7f84f1d7ddfa1d52c4/c2fe51a09c6bb98a-af/s500x750/aef9e9fe0db1080418b6c0e2b76b8076b0ed26d6.pnj" width="700" height="700">
   <br>
   <br>
-  <img src="">
-  <img src="">
+  <img src="https://64.media.tumblr.com/a6033e1e1513ed53151ec4fd8c20cb1e/c259c52c20753706-3d/s400x600/622158c10a35ee54583cf6b2048ae8c199dafa87.pnj" width="150" height="150">
+  <img src="https://64.media.tumblr.com/2bf7bb1db08c9ad986818c7ed1b898ab/c259c52c20753706-80/s400x600/88f3ac61a7ae68262ae429a5a6adc7bd03a208fc.pnj" width="150" height="150">
   <br>
   <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875152062943242/ezgif.com-gif-maker_1.gif?ex=692e4c58&is=692cfad8&hm=f27d81632d527aa3213e3a914d26b0aac4fce8361fc0af3535a32ebc27c5a7c9&=&width=138&height=75">
   <img src="https://media.discordapp.net/attachments/1444601622121545801/1444875152419586079/ezgif.com-gif-maker_2.gif?ex=692e4c58&is=692cfad8&hm=b6f89dedd1f407229cf12d85a80f8f4b25a938f557a37be9bbf65185a92c78b0&=&width=124&height=70">
